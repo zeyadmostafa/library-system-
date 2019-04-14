@@ -1,0 +1,3 @@
+harry,potter,olo,12,4/4/4,fear,7,4,4
+fire and ice,wiliam,dodo,159,12/12/2000,comdey,4,4,3
+mona,oko,plp,90,1/1/2012,fear,6,2,1
